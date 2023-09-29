@@ -1,6 +1,10 @@
 
 # Translating ASL Fingerspelling
 
+## Project Site
+[Project site with full overview of our efforts.](https://samueldavidbryan.github.io/machine-learning-fingerspelling/)
+
+
 ## Background
 This repository focuses on translating American Sign Language (ASL) fingerspelling into text using deep learning, particularly Long-Short-Term-Memory (LSTM) networks. Voice recognition is prevalent, but gesture-to-text technology is still underdeveloped. ASL native signers are much faster at fingerspelling than typing on a mobile device. The project is based on a [Kaggle competition](https://www.kaggle.com/competitions/asl-fingerspelling) with a 180GB dataset of ASL phrases, normalized using Mediapipes.
 
